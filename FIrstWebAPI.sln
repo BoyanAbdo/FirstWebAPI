@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIrstWebAPI", "FIrstWebAPI\FIrstWebAPI.csproj", "{313DCC78-7B2C-403B-BFAF-5F02D72018FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313DCC78-7B2C-403B-BFAF-5F02D72018FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313DCC78-7B2C-403B-BFAF-5F02D72018FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313DCC78-7B2C-403B-BFAF-5F02D72018FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313DCC78-7B2C-403B-BFAF-5F02D72018FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB53896-54A3-472C-BE74-3C847C035B6A}
+	EndGlobalSection
+EndGlobal
